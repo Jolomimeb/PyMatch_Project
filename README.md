@@ -1,1 +1,0 @@
-# Jolomi_projects
