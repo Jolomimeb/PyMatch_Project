@@ -160,6 +160,7 @@ def play_game(rows, cols):
 
 
 if __name__ == '__main__':
+    print('Welcome to PyMatch')
     my_new_map = input('Enter rows cols and seed separated by comma: ').split(',')
     rows = int(my_new_map[0])
     cols = int(my_new_map[1])
